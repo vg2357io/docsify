@@ -3,4 +3,6 @@
 // It imports the core helpers and registers concrete plugins (starting with ui-button).
 
 import './core.js';
+import './utils-ui.js';
 import './ui-button.js';
+import './ui-card.js';
